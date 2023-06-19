@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bai1.iml" filepath="$PROJECT_DIR$/Bai1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HumanManagement/HumanManagement.iml" filepath="$PROJECT_DIR$/HumanManagement/HumanManagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leson10/Leson10.iml" filepath="$PROJECT_DIR$/Leson10/Leson10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leson10_2/Leson10_2.iml" filepath="$PROJECT_DIR$/Leson10_2/Leson10_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leson4_Array/Leson4_Array.iml" filepath="$PROJECT_DIR$/Leson4_Array/Leson4_Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leson5/Leson5.iml" filepath="$PROJECT_DIR$/Leson5/Leson5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leson6/Leson6.iml" filepath="$PROJECT_DIR$/Leson6/Leson6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leson6_1/Leson6_1.iml" filepath="$PROJECT_DIR$/Leson6_1/Leson6_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leson6_2/Leson6_2.iml" filepath="$PROJECT_DIR$/Leson6_2/Leson6_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leson7_1/Leson7_1.iml" filepath="$PROJECT_DIR$/Leson7_1/Leson7_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leson_10/Leson_10.iml" filepath="$PROJECT_DIR$/Leson_10/Leson_10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linh exercise/Linh exercise.iml" filepath="$PROJECT_DIR$/Linh exercise/Linh exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise/exercise.iml" filepath="$PROJECT_DIR$/exercise/exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inteerfaceLeson/inteerfaceLeson.iml" filepath="$PROJECT_DIR$/inteerfaceLeson/inteerfaceLeson.iml" />
+    </modules>
+  </component>
+</project>
